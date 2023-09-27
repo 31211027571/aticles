@@ -1,0 +1,10 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"mobile_db_wsv"},
+{"type":"table","name":"tbl_products","database":"mobile_db_wsv","data":
+[
+{"article_id":"1","article_title":"Lục Địa Kiếm Tiên: Kiếm Các Thủ Kiếm 80 Năm","article_image":"https:\/\/static.cdnno.com\/poster\/luc-dia-kiem-tien-kiem-cac-thu-kiem-80-nam\/300.jpg?1657018539","article_deacription":"Nắm giữ thiên phú 【 Kiếm Đạo Thông Thần 】 Mạnh Phàm, trọng sinh đến tu tiên thế giới, trở thành Thục Sơn Kiếm Phái Kiếm Các thủ kiếm nhân.\\n\" +\r\n                \"80 năm sau,\\n\" +\r\n                \"Đã sớm tu thành Lục Địa Kiếm Tiên Mạnh Phàm, chậm rãi đi ra Kiếm Các.\\n\" +\r\n                \"\\\"Ta có Nhất Kiếm, có thể hàng yêu, trừ Ma, Tru Tiên, Trảm Thần, Diệt Phật, Thông Thiên, Triệt Địa!\\\"\\n\" +\r\n                \"\\n\""},
+{"article_id":"2","article_title":"Thiên Mệnh Phản Phái: Ta, Cự Tuyệt Từ Hôn!","article_image":"https:\/\/static.cdnno.com\/poster\/thien-menh-phan-phai-ta-cu-tuyet-tu-hon\/300.jpg?1688961892","article_deacription":"Giang Huyền xuyên qua huyền huyễn thế giới, thành vì Trường Sinh gia tộc chân truyền đệ tử, lúc đó bị phụ mẫu quyết định thông gia từ bé bị trong tộc biết, cho rằng nàng này không xứng với chính mình, hy vọng có thể sớm ngày từ hôn, bảo toàn danh dự. Giang Huyền cường thế cự tuyệt từ hôn, thậm chí đưa đi tài nguyên, tương trợ tu hành, 3 năm về sau, hẹn nhau thành hôn. Từ đó, Giang Huyền phát hiện mình chỉ cần đánh vỡ thiết lập, cự tuyệt liền có thể trở nên mạnh mẽ. Giang Huyền: Ta đạo vô địch."}
+]
+}
+]
